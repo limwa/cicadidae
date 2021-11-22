@@ -1,7 +1,7 @@
 {
     "name": "cicadidae",
     "version": "0.1.0",
-    "description": "cicadidae is a library that allows you to interact easily and effortlessly with the SIGARRA educational system",
+    "description": "cicadidae is a library that allows you to interact easily and effortlessly with U.Porto's SIGARRA educational system",
     "main": "dist/index.js",
     "scripts": {
         "test": "scripts/test.sh",
