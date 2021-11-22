@@ -1,5 +1,5 @@
 # Check JSON formatting
-chalk -t '\n{gray [1/2] {bold.yellowBright Checking JSON formatting}}'
+chalk -t '\n{gray [1/2] {bold.yellowBright Checking JSON formatting...}}'
 prettier -c --no-error-on-unmatched-pattern src/**/*.json test/**/*.json *.json || exit 1
 
 # Lint
